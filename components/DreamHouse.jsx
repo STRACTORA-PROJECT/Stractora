@@ -6,7 +6,7 @@ export default function DreamHouse() {
     >
       <div className="relative w-full md:pb-48">
         <img
-          src="/images/christian-mackie-SxBca4GcC9k-unsplash.jpeg"
+          src="/images/chrit.jpeg"
           alt="Your dream house can come to life"
           className="block w-full h-full object-cover"
           style={{ maxHeight: "560px" }}

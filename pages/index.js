@@ -4,7 +4,9 @@ import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Services from "../components/Services";
 import Welcome from "../components/Welcome";
-import Projects from "../components/Projects";
+// import Projects from "../components/Projects";
+import Applic from "../components/projectSlider";
+
 import Achievements from "../components/Achievements";
 import About from "../components/About";
 import DreamHouse from "../components/DreamHouse";
@@ -38,7 +40,7 @@ export default function Home(props) {
         <About />
         <Services />
         <Achievements />
-        <Projects />
+        <Applic />
         <Testimonials />
         <DreamHouse />
         <Contact />
